@@ -49,7 +49,7 @@ The intent is to **study, document, and mitigate** security risks in AI systems.
 ---
 
 ## 🌐 Author
-**Tushar Pandey**  
+**Tushar Pandey (tuxsharx)**  
 - 💻 Backend Developer → now exploring **AI Security**  
 - 🔐 Focus: jailbreaks, adversarial inputs, and AI red teaming  
 - 📝 [GitHub Profile](https://github.com/Tushar-Pandey-31)  
