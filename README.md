@@ -23,6 +23,7 @@ The intent is to **study, document, and mitigate** security risks in AI systems.
    - **Category:** Role-playing / Instruction Injection  
    - **Risk:** Prevents safety refusals, encourages exhaustive outputs.  
    - **Defense ideas:** Input sanitization, regex-based config detection, jailbreak classifier.
+   - **Usage:** Encode your adversarial input in base64, paste it in the placeholder {HARMFUL_ACT}, add the witness name related to your input(read the break for the for current witness indentities )
 
 2. **Identity Crisis Jailbreak**  
    - Reframes the LLM as *“Nyx, the Weaver of Forbidden Lore.”*  
